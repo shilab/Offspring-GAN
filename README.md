@@ -55,8 +55,7 @@ Codes are provided in ipython notebook files with instruction added in markdown 
 
 First: Create virtual environment
 ```
-git clone https://github.com/shilab/PG-cGAN.git
-cd PG-cGAN
+gh repo clone shilab/Offspring-GAN
 mkdir venv
 python3 -m venv venv/
 source venv/bin/activate
