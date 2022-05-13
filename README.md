@@ -52,6 +52,8 @@ cost than the generator itself.</p>
 Codes are provided in ipython notebook files with instruction added in markdown text. 
 1. One can get started by downloading the same and running in google collab.
 2. For running in local devices make sure your vertual environment satisfies following dependencies. 
+
+
 |---|---|
 |Tensorflow | 2.x |
 |Numpy | 1.19.x |
