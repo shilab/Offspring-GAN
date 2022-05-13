@@ -29,8 +29,11 @@ pose a privacy-preserving protocol using Offspring GAN to protect
 the privacy of real data for respective lab.
 
 ## Offspring GAN architecture
-|-------------------------|-------------------------| 
-| ![](OGAN.png) | <p> Real data is passed
+<p align="center">
+![](OGAN.png) 
+</p>
+
+<p> Real data is passed
 through the Mendelian hybridizer, and it generates genotypes offspring generation,
 which is passed to the discriminator as real data.
 On the other hand, the generator takes an input of a conditional
