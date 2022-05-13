@@ -10,3 +10,5 @@ for plot 1,2,4,6 population labels EAS AMR EUR AFR SAS indicated East Asian, Ame
 for plot 3,5,7 syn prefix is used in labels to distinguish GAN generated datapoints from real data points. 
 0,1,2 in each plots represents principle axis 1, 2,3 respectively 
 One can use hide/undide feature from the legend to better understand the overlaps and spreads of data points. 
+
+Download these html files and open it with any browser to view these plots in interactve mode.
