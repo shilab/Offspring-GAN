@@ -41,8 +41,6 @@ is passed to a second Mendelian hybridizer, and it can produce 𝐹1 generation 
 of synthetic data with a lower computational
 cost than the generator itself.
 
-
-
 ## Implications 
 1. Data augmentation on heavily biased genomic dataset
 2. Privacy Preserving protocol using Offspring genotype
