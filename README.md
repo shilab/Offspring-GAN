@@ -51,18 +51,13 @@ cost than the generator itself.</p>
 ## Getting started 
 Codes are provided in ipython notebook files with instruction added in markdown text. 
 1. One can get started by downloading the same and running in google collab.
-2. For running in local devices you can follow theses steps:
-
-First: Create virtual environment
-```
-gh repo clone shilab/Offspring-GAN
-mkdir venv
-python3 -m venv venv/
-source venv/bin/activate
-```
-Second: Install requirment dependents
-```
-pip install tensorflow sklearn pandas jupyter matplotlib seaborn plotly
-```
+2. For running in local devices make sure your vertual environment satisfies following dependencies. 
+|---|---|
+|Tensorflow | 2.x |
+|Numpy | 1.19.x |
+|Pandas | 1.1.5|
+|SkLearn | 1.0 |
+|plotly | 5.8 |
+| mathplotlib | 3.5.x |
 
 For running on HPC in interactive manner one can request GPU node as given in HPC_GPU.sh file in code folder. 
