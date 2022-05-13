@@ -29,8 +29,8 @@ pose a privacy-preserving protocol using Offspring GAN to protect
 the privacy of real data for respective lab.
 
 ## Offspring GAN architecture
-:-------------------------:|:-------------------------:  
-![](OGAN.png) | <p> Real data is passed
+|-------------------------|-------------------------| 
+| ![](OGAN.png) | <p> Real data is passed
 through the Mendelian hybridizer, and it generates genotypes offspring generation,
 which is passed to the discriminator as real data.
 On the other hand, the generator takes an input of a conditional
@@ -39,7 +39,7 @@ ates a synthetic genotype for the respective ethnicity. After training
 generator is capable of label-aware realistic data generation, which
 is passed to a second Mendelian hybridizer, and it can produce 𝐹1 generation genotype
 of synthetic data with a lower computational
-cost than the generator itself.</p>
+cost than the generator itself.</p>|
 
 ## Implications 
 1. Data augmentation on heavily biased genomic dataset
