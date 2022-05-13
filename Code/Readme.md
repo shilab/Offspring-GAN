@@ -6,6 +6,7 @@ One can use the X_train.npy and Y_train.npy from Data.zip directly without the n
 Raw data was downloaded from : git@github.com:shilab/PG-cGAN.git url : https://github.com/shilab/PG-cGAN
 
 Code for requestig GPU for interactive jobs is given in HPC_GPU.sh file. 
+
 For using it on HPC:
 1. ssh log in to your HPC account
 2. check available conda modules using `module spider conda`
@@ -16,4 +17,4 @@ For using it on HPC:
 7. check submitted job using 'squeue'
 8. once running, use cat <log_file_name>. check the the url for opening jupyter notebook in your browser and ip of allocated gpu
 9. log in to alloated GPU node using ssh
-10. paste the url for jupyter lab notebook in browser, it should open the jupyter environment, upload the ipynb file and install the libraries as sugested in Readme0.md . Now you can run same code in HPC server. 
+10. paste the url for jupyter lab notebook in browser, it should open the jupyter environment, upload the ipynb file and install the libraries as sugested in Getting started section. Now you can run same code in HPC server. 
