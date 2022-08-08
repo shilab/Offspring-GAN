@@ -54,3 +54,6 @@ Codes are provided in ipython notebook files with instruction added in markdown 
 2. For running in local devices make sure your vertual environment satisfies following dependencies :Tensorflow : 2.x, Numpy : 1.19.x, Pandas : 1.1.5, SkLearn : 1.0, plotly : 5.8, mathplotlib : 3.5.x
 
 For running on HPC in interactive manner one can request GPU node as given in HPC_GPU.sh file in code folder. 
+
+## Citation:
+Supratim Das and Xinghua Shi. 2022. Offspring GAN augments biased human genomic data. In Proceedings of the 13th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (BCB '22). Association for Computing Machinery, New York, NY, USA, Article 50, 1–10. https://doi.org/10.1145/3535508.3545537
